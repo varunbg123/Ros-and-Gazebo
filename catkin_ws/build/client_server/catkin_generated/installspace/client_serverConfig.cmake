@@ -68,7 +68,7 @@ set(client_server_CONFIG_INCLUDED TRUE)
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
   set(client_server_SOURCE_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/src/client_server)
-  set(client_server_DEVEL_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/devel/.private/client_server)
+  set(client_server_DEVEL_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/devel)
   set(client_server_INSTALL_PREFIX "")
   set(client_server_PREFIX ${client_server_DEVEL_PREFIX})
 else()

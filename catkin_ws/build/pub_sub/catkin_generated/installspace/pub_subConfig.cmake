@@ -68,7 +68,7 @@ set(pub_sub_CONFIG_INCLUDED TRUE)
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
   set(pub_sub_SOURCE_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/src/pub_sub)
-  set(pub_sub_DEVEL_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/devel/.private/pub_sub)
+  set(pub_sub_DEVEL_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/devel)
   set(pub_sub_INSTALL_PREFIX "")
   set(pub_sub_PREFIX ${pub_sub_DEVEL_PREFIX})
 else()

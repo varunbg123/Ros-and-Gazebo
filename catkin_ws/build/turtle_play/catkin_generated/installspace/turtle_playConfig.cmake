@@ -68,7 +68,7 @@ set(turtle_play_CONFIG_INCLUDED TRUE)
 # set variables for source/devel/install prefixes
 if("FALSE" STREQUAL "TRUE")
   set(turtle_play_SOURCE_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/src/turtle_play)
-  set(turtle_play_DEVEL_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/devel/.private/turtle_play)
+  set(turtle_play_DEVEL_PREFIX /home/innovation/github/RosandGazebo/catkin_ws/devel)
   set(turtle_play_INSTALL_PREFIX "")
   set(turtle_play_PREFIX ${turtle_play_DEVEL_PREFIX})
 else()
