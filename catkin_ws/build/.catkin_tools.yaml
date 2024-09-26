@@ -1,0 +1,6 @@
+devel_space: /home/innovation/github/RosandGazebo/catkin_ws/devel
+install: false
+install_space: /home/innovation/github/RosandGazebo/catkin_ws/install
+profile: default
+source_space: /home/innovation/github/RosandGazebo/catkin_ws/src
+workspace: /home/innovation/github/RosandGazebo/catkin_ws

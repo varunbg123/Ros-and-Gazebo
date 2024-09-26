@@ -1,0 +1,1 @@
+/home/innovation/github/RosandGazebo/catkin_ws/devel/.private/client_server/lib/pkgconfig/client_server.pc
