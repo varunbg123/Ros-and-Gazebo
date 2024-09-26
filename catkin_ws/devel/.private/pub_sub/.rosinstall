@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/innovation/github/RosandGazebo/catkin_ws/devel/.private/pub_sub/setup.sh
